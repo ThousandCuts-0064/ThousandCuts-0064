@@ -1,7 +1,7 @@
 # ✨Welcome Traveler✨
 
 - 🔭 I’m currently working #Winnable
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently learning **OpenGL**
 - 👯 I’m looking to collaborate with passionate and excited people
 - 💬 Ask me about C#
 - ⚡ Fun fact: In the middle of every difficulty lies opportunity.
