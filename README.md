@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-#### I'm a software engineer with a passion for building applications that deliver smooth, seamless user experiences.<br>I focus on creating scalable applications with real-time features, ensuring they stay responsive and reliable even as they grow.<br>From backend logic to polished frontends, I enjoy working across the stack to bring ideas to life.
+I'm a software engineer with a passion for building applications that deliver smooth, seamless user experiences.<br>I focus on creating scalable applications with real-time features, ensuring they stay responsive and reliable even as they grow.<br>From backend logic to polished frontends, I enjoy working across the stack to bring ideas to life.
 
 - 🌱 I’m currently learning systems design
 - 👯 I’m looking to collaborate with passionate and excited people.
