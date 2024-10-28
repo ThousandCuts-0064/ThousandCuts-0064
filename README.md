@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-**About me**
+🌟 **About me**
 
 I'm a software engineer with a passion for building applications that deliver smooth, seamless user experiences. I focus on creating scalable applications with real-time features, ensuring they stay responsive and reliable even as they grow. From backend logic to polished frontends, I enjoy working across the stack to bring ideas to life.
 
