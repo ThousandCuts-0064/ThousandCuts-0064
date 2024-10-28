@@ -1,10 +1,11 @@
-# ✨Welcome Traveler✨
+# Hi there! 👋
 
-- 🔭 I’m currently working #Winnable
-- 🌱 I’m currently learning **OpenGL**
-- 👯 I’m looking to collaborate with passionate and excited people
-- 💬 Ask me about C#
-- ⚡ Fun fact: In the middle of every difficulty lies opportunity.
+- 🌟 I'm a software engineer with a passion for building applications that deliver smooth, seamless user experiences. I focus on creating scalable applications with real-time features, ensuring they stay responsive and reliable even as they grow. From backend logic to polished frontends, I enjoy working across the stack to bring ideas to life.
+- 🌱 I’m currently learning systems design
+- 👯 I’m looking to collaborate with passionate and excited people.
+- ⚡ I’m eager to join new projects.
+- 💬 Ask me about C# and .Net.
+- 🚀 Fun fact: I launch my projects like rockets—powered by vision and aiming for the stars!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
