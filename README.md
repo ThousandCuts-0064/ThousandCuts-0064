@@ -10,7 +10,6 @@ I'm a **Software Engineer** with a passion for building applications that delive
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ThousandCuts-0064&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThousandCuts-0064&theme=radical&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/gist/?username=ThousandCuts-0064&theme=radical&layout=compact)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
