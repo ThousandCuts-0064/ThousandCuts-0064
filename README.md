@@ -8,8 +8,9 @@ I'm a **Software Engineer** with a passion for building applications that delive
 - 💬 Ask me about C# and .Net.
 - 🚀 Fun fact: I launch my projects like rockets - powered by vision and aiming for the stars!
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ThousandCuts-0064&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThousandCuts-0064&theme=radical&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=ThousandCuts-0064&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThousandCuts-0064&theme=radical&layout=compact&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=aaronedev&theme=tokyonight&hide_border=true)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
