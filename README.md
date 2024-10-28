@@ -8,7 +8,7 @@ I'm a **Software Engineer** with a passion for building applications that delive
 - 💬 Ask me about C# and .Net.
 - 🚀 Fun fact: I launch my projects like rockets - powered by vision and aiming for the stars!
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=ThousandCuts-0064&theme=radical)]
+![Stats](https://github-readme-stats.vercel.app/api?username=ThousandCuts-0064&theme=radical)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
