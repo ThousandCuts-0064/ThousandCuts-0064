@@ -6,7 +6,7 @@ I'm a **Software Engineer** with a passion for building applications that delive
 - 👯 I’m looking to collaborate with passionate and excited people.
 - ⚡ I’m eager to join new projects.
 - 💬 Ask me about C# and .Net.
-- 🚀 Fun fact: I launch my projects like rockets—powered by vision and aiming for the stars!
+- 🚀 Fun fact: I launch my projects like rockets - powered by vision and aiming for the stars!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
